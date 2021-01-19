@@ -1,0 +1,4 @@
+apiVersion: v2
+version: 0.1.0
+name: spring-boot-microservice
+description: Chart to configure ArgoCD with the spring-boot-microservice project and its applications
